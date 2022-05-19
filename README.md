@@ -33,9 +33,9 @@
 ## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=khhasibulhasan&show_icons=true)  
-
+## Trends
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khhasibulhasan)  
-
+## Summary
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khhasibulhasan)
 
 ## Last but not least....
