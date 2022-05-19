@@ -3,7 +3,7 @@
   
 
 ### Hello 👋, Its Kh Hasan
- #### Aspiring Business Data Scientist
+ #### Aspiring Financial Data Scientist
 
 ![Profile views](https://gpvc.arturio.dev/khhasibulhasan)
 
