@@ -8,8 +8,8 @@
 ![Profile views](https://gpvc.arturio.dev/khhasibulhasan)
 
 ## Currently
-- 🧑‍💼 Working on Analysing share price using Data Science 
-- 📜 Learning Pandas, NumPy 
+- 🧑‍💼 Working on prediction of share price using Data Science 
+- 📜 Learning Pandas, NumPy
 - 🆘 Looking to collaborate on Data Science projects on Business 
 - 😄 Pronouns: He/Him 
 - ✨ Fun fact: Foodies 
