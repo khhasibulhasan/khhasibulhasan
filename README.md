@@ -1,5 +1,4 @@
-![Financial Data Scientist](https://media-exp1.licdn.com/dms/image/C4E16AQHR6s1xBpHAjw/profile-displaybackgroundimage-shrink_200_800/0/1652940876335?e=1658361600&v=beta&t=Tt6iKE7zKwaoJ-PIkPJIBal_izbVpNNAqfKPdY8Mjm8)
-  ##### Accountancy is the language of Business and DATA SCIENCE makes the sentences of that language...
+![Data Scientist](https://media-exp1.licdn.com/dms/image/C4E16AQHR6s1xBpHAjw/profile-displaybackgroundimage-shrink_200_800/0/1652940876335?e=1658361600&v=beta&t=Tt6iKE7zKwaoJ-PIkPJIBal_izbVpNNAqfKPdY8Mjm8)
   
 
 ### Hello 👋, Its Kh Hasan
