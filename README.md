@@ -9,7 +9,7 @@
 - 🆘 Looking to collaborate on Data Science projects on Business 
 - 😄 Pronouns: He/Him 
 - ✨ Fun fact: Foodies 
-- 📫 Reach me: k.h.hasan@edu.salford.ac.uk 
+- 📫 Reach me: khhasibulhasan44@gmail.com
 
 ## Skills & Experience:
 - Python (PySpark, NumPy, Pandas, Scikit-learn)
